@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Segoe UI 900';
+    src: url('SegoeUIBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Segoe UI 700';
+    src: url('SegoeUI-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Segoe UI 600';
+    src: url('SegoeUI-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Segoe UI 400';
+    src: url('SegoeUI-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.su-900 {
+	 font-family: 'Segoe UI 900' !important;
+}
+.su-700 {
+	 font-family: 'Segoe UI 700' !important;
+}
+.su-600 {
+	 font-family: 'Segoe UI 600' !important;
+}
+.su-400 {
+	 font-family: 'Segoe UI 400' !important;
+}

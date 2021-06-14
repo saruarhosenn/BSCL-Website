@@ -1,0 +1,92 @@
+
+.mb-65 {
+	margin-bottom: 6.5rem;
+}
+/*
+=====================
+Font Size
+=====================
+*/
+.size-90 {
+	font-size: 9rem;
+}
+
+.size-70 {
+	font-size: 7rem;
+}
+
+.size-45 {
+	font-size: 4.5rem;
+	line-height: 6rem;
+}
+
+.size-40 {
+	font-size: 4rem;
+}
+
+.size-34 {
+	font-size: 3.4rem;
+	line-height: 5.2rem;
+}
+
+.size-30 {
+	font-size: 3rem;
+}
+
+.size-24 {
+	font-size: 2.4rem;
+}
+
+.size-20 {
+	font-size: 2rem;
+}
+
+.size-16 {
+	font-size: 1.6rem;
+}
+
+/*
+=====================
+Font Color
+=====================
+*/
+.co-ff {
+	color: #FFFFFF;
+}
+
+.co-06 {
+	color: #06C6A6;
+}
+
+.co-2a {
+	color: #2ABA86;
+}
+
+.co-00 {
+	color: #000710;
+}
+
+.co-70 {
+	color: #707070;
+}
+
+.co-56 {
+	color: #565656;
+}
+
+/*
+=====================
+Transition
+=====================
+*/
+.transition-1 {
+	-webkit-transition: all 0.4s linear;
+	-o-transition: all 0.4s linear;
+	transition: all 0.4s linear;
+}
+
+.transition-2 {
+	-webkit-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}

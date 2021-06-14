@@ -1,0 +1,768 @@
+@media (max-width: 1599px) {
+
+	/* 
+	==============================
+	Reuseble Code 
+	==============================
+	*/
+	.size-90 {
+		font-size: 7rem;
+	}
+
+	.size-40 {
+		font-size: 3.8rem;
+	}
+
+	/* 
+	==============================
+	Team & Expaert SEction
+	==============================
+	*/
+	.team-text h3 {
+		font-size: 2.6rem;
+	}
+
+	/* 
+	==============================
+	Footer SEction
+	==============================
+	*/
+	.f-page-link-1 {
+		padding-left: 5rem;
+	}
+
+	.f-page-link-2 {
+		padding-left: 10rem;
+	}
+
+	.f-page-link-3 {
+		padding-left: 9rem;
+	}
+
+}
+
+@media (max-width: 1399px) {
+
+	/* 
+	==============================
+	Reuseble Code 
+	==============================
+	*/
+	.size-70 {
+		font-size: 6rem;
+	}
+
+	.size-40 {
+		font-size: 3.5rem;
+	}
+
+	.size-20 {
+		font-size: 1.7rem;
+	}
+
+	/*
+	====================
+	Back to top 
+	====================
+	*/
+	#up__btn {
+		width: 4rem;
+		height: 4rem;
+	}
+
+
+	/* 
+	==============================
+	Country SEction
+	==============================
+	*/
+	.country-row > * {
+		padding-left: 2rem;
+		padding-right: 2rem;
+	}
+
+	/* 
+	==============================
+	House  SEction
+	==============================
+	*/
+	.house-text a {
+		padding: 1.5rem 6rem;
+	}
+
+	.house {
+		padding: 3rem;
+	}
+
+	/* 
+	==============================
+	Team & Expert  SEction
+	==============================
+	*/
+	.team-box {
+		padding: 3rem;
+	}
+
+	.team-text p:nth-child(2) {
+		margin-bottom: 1rem;
+	}
+
+	/* 
+	==============================
+	Parrtner SEction
+	==============================
+	*/
+	.partner-img img {
+		max-width: 18rem;
+	}
+
+	/* 
+	==============================
+	Blog SEction
+	==============================
+	*/
+	.blog {
+		padding-right: 3.5rem;
+	}
+
+	/* 
+	==============================
+	Footer SEction
+	==============================
+	*/
+	.f-page-link-1 {
+		padding-left: 6rem;
+	}
+
+	.f-page-link-2 {
+		padding-left: 0rem;
+	}
+
+	.f-page-link-3 {
+		padding-left: 6rem;
+	}
+
+	.f-page-link ul li a {
+		font-size: 2.2rem;
+	}
+
+
+}
+
+@media (max-width: 1199px) {
+
+	/* 
+	==============================
+	Reuseble Code 
+	==============================
+	*/
+
+	.size-45 {
+		font-size: 3.5rem;
+		line-height: 4.5rem;
+	}
+
+	.size-40 {
+		font-size: 3rem;
+		line-height: 4rem;
+	}
+
+	.size-34 {
+		font-size: 3.4rem;
+		line-height: 4rem;
+	}
+
+
+	/* 
+	==============================
+	Text, Img Section
+	==============================
+	*/
+	.text-img-text p:not(:last-child) {
+		margin-bottom: 1.5rem;
+	}
+
+
+	/* 
+	==============================
+	House SEction
+	==============================
+	*/
+	.house-row {
+		margin-left: -1.6rem;
+		margin-right: -1.6rem;
+	}
+
+	.house-row > * {
+		padding-left: 1.6rem;
+		padding-right: 1.6rem;
+		margin-bottom: 3.2rem;
+	}
+
+	/* 
+	==============================
+	App SEction
+	==============================
+	*/
+
+	.app-btn a {
+		width: 18rem;
+		height: 6rem;
+	}
+
+	.app-btn a img {
+		max-width: 14rem;
+	}
+
+	.app-btn a:first-child {
+		margin-bottom: 5rem;
+	}
+
+	.qr-code {
+		width: 17rem;
+		height: 17rem;
+	}
+
+	.qr-code img {
+		max-width: 14rem;
+	}
+
+	/* 
+	==============================
+	Country SEction
+	==============================
+	*/
+	.flag-container {
+		top: 6%;
+	}
+
+	.country-flag-3 {
+		top: 90px;
+		right: 156px;
+	}
+
+	.country-flag-6 {
+		right: 162px;
+	}
+
+
+	/* 
+	==============================
+	Parrtner SEction
+	==============================
+	*/
+	.partner-img img {
+		max-width: 14rem;
+	}
+
+	/*
+	==============================
+	Footer SEction
+	==============================
+	*/
+	.footer-widget form input::-webkit-input-placeholder {
+		font-size: 1.8rem;
+	}
+
+	.footer-widget form input::-moz-placeholder {
+		font-size: 1.8rem;
+	}
+
+	.footer-widget form input:-ms-input-placeholder {
+		font-size: 1.8rem;
+	}
+
+	.footer-widget form input::-ms-input-placeholder {
+		font-size: 1.8rem;
+	}
+
+	.footer-widget form input,
+	.footer-widget form input::placeholder {
+		font-size: 1.8rem;
+	}
+
+	.f-page-link-1 {
+		padding-left: 2rem;
+	}
+
+	.f-page-link-2 {
+		padding-left: 1rem;
+	}
+
+	.f-page-link-3 {
+		padding-left: 0rem;
+	}
+
+	.f-page-link ul li a {
+		font-size: 2rem;
+	}
+
+}
+
+@media (max-width: 991px) {
+
+	/*
+	==============================
+	Reuseble Code
+	==============================
+	*/
+	.size-40 {
+		font-size: 2.5rem;
+		line-height: 3.5rem;
+	}
+
+	.size-90 {
+		font-size: 5rem;
+	}
+
+	/* 
+	==============================
+	Text & Img SEction
+	==============================
+	*/
+	.text-img-content {
+		padding-left: 0rem;
+	}
+
+	/* 
+	==============================
+	App SEction
+	==============================
+	*/
+	.app-section {
+		padding-top: 5rem;
+	}
+
+	.app-text {
+		width: 100%;
+		margin-left: 0;
+	}
+
+	/* 
+	==============================
+	Country SEction
+	==============================
+	*/
+
+	.country-desc {
+		margin-top: 6rem;
+	}
+
+	.flag-container {
+		top: 0;
+	}
+
+	.country-flag {
+		width: 6rem;
+		height: 6rem;
+		padding: .5rem;
+	}
+
+	.country-flag img {
+		width: 100%;
+		height: 100%;
+	}
+
+	.country-name {
+		width: 17rem;
+		height: 6rem;
+		right: -183%;
+		line-height: 5rem;
+		font-size: 1.8rem;
+	}
+
+	.country-flag-4 {
+		bottom: 200px;
+		left: 95px;
+	}
+
+	.country-flag-5 {
+		bottom: 125px;
+	}
+
+	/* 
+	==============================
+	Supply SEction
+	==============================
+	*/
+	.supply-row > * {
+		padding-left: 0rem;
+		padding-right: 0rem;
+	}
+
+	.supply-text h2 img {
+		height: 4rem;
+	}
+
+
+	/* 
+	==============================
+	Team & Expert  SEction
+	==============================
+	*/
+	.team-row {
+		margin-left: -1.5em;
+		margin-right: -1.5rem;
+	}
+
+	.team-row > * {
+		padding-left: 1.5rem;
+		padding-right: 1.5rem;
+		margin-bottom: 3rem;
+	}
+
+	.team-box .team-img {
+		margin-right: 0rem;
+	}
+
+	.team-text h3 {
+		font-size: 2.4rem;
+	}
+
+	/* 
+	==============================
+	Parrtner SEction
+	==============================
+	*/
+	.partner-img img {
+		max-width: 10rem;
+	}
+
+	/* 
+	==============================
+	Blog SEction
+	==============================
+	*/
+	.blog-row {
+		margin-left: -1.6rem;
+		margin-right: -1.6rem;
+	}
+
+	.blog-row > * {
+		padding-left: 1.6rem;
+		padding-right: 1.6rem;
+		margin-bottom: 3.2rem;
+	}
+
+	.blog-text p:nth-child(2) {
+		max-width: 100%;
+	}
+
+	/* 
+	==============================
+	  SEction
+	==============================
+	*/
+
+
+}
+
+@media (max-width: 767px) {
+
+	/* 
+	==============================
+	 Reuseble Code
+	==============================
+	*/
+	.size-70 {
+		font-size: 4.5rem;
+	}
+
+	.size-40 {
+		font-size: 2.2rem;
+		line-height: 3rem;
+	}
+
+	.size-45 {
+		font-size: 3rem;
+		line-height: 4rem;
+	}
+
+	/* 
+	==============================
+	 Header SEction
+	==============================
+	*/
+	.main-menu {
+		position: relative;
+		position: fixed;
+		right: -100%;
+		top: 0;
+		height: 100vh;
+		background: #000;
+		width: 60%;
+		-webkit-transition: all 0.6s ease-in;
+		-o-transition: all 0.6s ease-in;
+		transition: all 0.6s ease-in;
+		z-index: 999999;
+	}
+
+	.main-menu-show {
+		right: 0;
+		-webkit-transition: all 0.6s ease-in;
+		-o-transition: all 0.6s ease-in;
+		transition: all 0.6s ease-in;
+	}
+
+	.main-menu ul {
+		width: 100%;
+	}
+
+	.main-menu ul li:not(:last-child) {
+		margin-right: 0;
+		margin-bottom: 1rem;
+	}
+
+	/* 
+	==============================
+	Country SEction
+	==============================
+	*/
+	.country-desc {
+		margin-top: 4rem;
+	}
+
+	.count-text h2 img {
+		height: 3.9rem;
+	}
+
+	.count-text h2 span {
+		margin-right: 1.5rem;
+	}
+
+	.country-flag-2 {
+		right: 269px;
+	}
+
+	.country-flag-3 {
+		top: 0;
+		right: 90px;
+	}
+
+	.country-flag-4 {
+		bottom: 224px;
+	}
+
+	.country-flag-6 {
+		right: 137px;
+		bottom: 200px;
+	}
+
+	/* 
+	==============================
+	Footer SEction
+	==============================
+	*/
+
+	.f-page-link h3 {
+		margin-bottom: 2rem;
+	}
+
+	.f-page-link-2,
+	.f-page-link-3 {
+		margin-top: 3rem;
+	}
+
+	.f-page-link-2 {
+		padding-left: 0rem;
+	}
+
+	.f-page-link ul li a {
+		font-size: 1.8rem;
+	}
+}
+
+@media (max-width: 575px) {
+
+	/*
+	=====================
+	Reuseble Code
+	=====================
+	*/
+	.size-90 {
+		font-size: 4rem;
+	}
+
+	.size-70 {
+		font-size: 4rem;
+	}
+
+	.size-45 {
+		font-size: 2.5rem;
+		line-height: 3.5rem;
+	}
+
+	.size-24 {
+		font-size: 2rem;
+	}
+
+	.size-20 {
+		font-size: 1.8rem;
+	}
+
+	/* 
+	==============================
+	 Header SEction
+	==============================
+	*/
+	.main-menu {
+		width: 80%;
+	}
+
+	/* 
+	==============================
+	Text & Img SEction
+	==============================
+	*/
+	.text-img-text h2 {
+		margin-bottom: 1.8rem;
+		font-size: 2.5rem;
+		line-height: 3.5rem
+	}
+
+	/* 
+	==============================
+	Country SEction
+	==============================
+	*/
+	.flag-container {
+		top: 0;
+	}
+
+	.country-flag {
+		width: 4rem;
+		height: 4rem;
+		padding: .5rem;
+	}
+
+	.country-flag img {
+		width: 100%;
+		height: 100%;
+	}
+
+	.country-name {
+		width: 12rem;
+		height: 4rem;
+		right: -203%;
+		line-height: 3rem;
+		font-size: 1.4rem;
+	}
+
+	/* 
+	==============================
+	Supply SEction
+	==============================
+	*/
+	.supply-text ht img {
+		height: 3.3rem;
+	}
+
+	.supply-text h2 span {
+		margin-right: 1.5rem !important;
+	}
+
+	.house-text h3 {
+		font-size: 2.8rem;
+	}
+
+	/* 
+	==============================
+	Footer SEction
+	==============================
+	*/
+
+	.f-page-link ul li:not(:last-child) {
+		margin-bottom: .6rem;
+	}
+
+	.f-page-link-1 {
+		margin-top: 3rem;
+	}
+
+	.f-page-link-3 {
+		margin-top: 0rem;
+	}
+
+	.f-page-link-1 {
+		padding-left: 0rem;
+	}
+
+}
+
+@media (max-width: 460px) {
+	.country-flag-2 {
+		right: 240px;
+		top: 55px;
+	}
+
+	.country-flag-4 {
+		bottom: 218px;
+	}
+
+	.country-flag-5 {
+		bottom: 271px;
+		right: 85px;
+	}
+}
+
+@media (max-width: 412px) {
+	.country-flag-1 {
+		left: 55px;
+	}
+
+	.country-flag-6 {
+		right: 80px;
+		bottom: 219px;
+	}
+}
+
+@media (max-width: 390px) {
+
+	.app-text > div {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-ms-flex-direction: column;
+		flex-direction: column;
+	}
+
+	.app-btn {
+		margin-right: 0rem;
+	}
+
+	.app-btn a,
+	.qr-code {
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.app-btn a:first-child {
+		margin-bottom: 2rem;
+	}
+
+	.app-btn a:nth-child(2) {
+		margin-bottom: 2rem;
+	}
+
+	.link-and-language {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-ms-flex-direction: column;
+		flex-direction: column;
+	}
+
+	.link-and-language .language-box {
+		margin: 2rem 0;
+	}
+}
+
+@media (max-width: 390px) {
+	.team-text h3 {
+		font-size: 2rem;
+	}
+}
+
+@media (max-width: 365px) {
+	.country-flag-4 {
+		left: 50px;
+	}
+}
